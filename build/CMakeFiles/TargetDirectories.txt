@@ -1,0 +1,3 @@
+/home/alumno/Escritorio/Prueba Make/build/CMakeFiles/miejemplo.dir
+/home/alumno/Escritorio/Prueba Make/build/CMakeFiles/edit_cache.dir
+/home/alumno/Escritorio/Prueba Make/build/CMakeFiles/rebuild_cache.dir
